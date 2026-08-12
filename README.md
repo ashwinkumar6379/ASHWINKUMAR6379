@@ -134,11 +134,6 @@ A multi-tier application deployed on a Linux virtual machine.
 
 ---
 
-## 📈 Contribution Graph
-
-[![Ashwin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
 
 ## 🏆 Certifications & Learning
 
@@ -165,11 +160,6 @@ A multi-tier application deployed on a Linux virtual machine.
 
 </p>
 
----
-
-## 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
